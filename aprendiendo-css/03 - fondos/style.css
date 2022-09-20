@@ -1,0 +1,43 @@
+
+
+body{
+    background-color: #ccc;
+    background-attachment: fixed;
+    color: black;
+}
+
+h1{
+    color: rgb(253, 253, 253);
+}
+
+#caja{
+    border: 5px solid rgb(0, 0, 0);
+    padding: 10px;
+    background-color: rgb(94, 135, 196);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#caja{
+    color: white;
+    font-family: M;
+    text-align: center;
+    line-height: 50px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    vertical-align: top;
+}
+
+h2{
+    color: rgb(192, 69, 69);
+    background-image: url("fondo2.jpg");
+    border: 5px solid red;
+}
+p:hover{
+    color:white;
+}
+
+p{
+    text-align: justify;
+}
